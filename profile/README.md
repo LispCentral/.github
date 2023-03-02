@@ -1,6 +1,6 @@
 <div align="center">
   <h1>For the love of Lisp!</h1>
-    <img src="../lispcentral-white-bg.png" width="150"/>
+    <img src="https://raw.githubusercontent.com/LispCentral/.github/main/lispcentral-white-bg.png" width="150"/>
     <p>Our goal is to make this the most inclusive and collaborative Lisp community on the internet!</p>
 </div>
 <h2>Get Started</h2>
