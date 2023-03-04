@@ -5,7 +5,7 @@
 </div>
 <h2>Get Started</h2>
 <ol>
-  <li>Join LispCentral by raising a new <a href="https://github.com/LispCentral/.github/issues/new">issue</a> (you will receive an invitation)</li>
+  <li>Join LispCentral by raising a new <a href="https://github.com/LispCentral/.github/issues/new?assignees=juliojimenez&labels=&template=join-lispcentral-.md&title=Join+LispCentral%21">issue</a> (you will receive an invitation)</li>
   <li>Follow us on <a href="https://fosstodon.org/@LispCentral">Fosstodon</a> :elephant:</li>
   <li>Join the <a href="https://github.com/orgs/LispCentral/discussions">conversation</a>.</li>
   <li>Build awesome things with Lisp. Yes, create repos, collaborate with others, let's learn together.</li>
