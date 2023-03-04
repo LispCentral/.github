@@ -11,5 +11,5 @@
   <li>Build awesome things with Lisp. Yes, create repos, collaborate with others, let's learn together.</li>
   <li>Help us design and build our bot! Are you wondering what we'll use? You guessed it, Lisp!</li>
 </ol>
-<p>All are welcomed, <a href="https://github.com/LispCentral/.github/issues/new">join us</a>! :heart:</p>
+<p>All are welcomed, <a href="https://github.com/LispCentral/.github/issues/new?assignees=juliojimenez&labels=&template=join-lispcentral-.md&title=Join+LispCentral%21">join us</a>! :heart:</p>
 
